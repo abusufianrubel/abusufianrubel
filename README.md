@@ -18,7 +18,7 @@ Laravel • Golang • React • TypeScript • PostgreSQL • Redis
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sufianrubel-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abusufianrubel/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abusufianrubel-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abusufianrubel/)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-181717?style=for-the-badge)](https://sufiandev.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-rubel.nstu27%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubel.nstu27@gmail.com)
 
@@ -144,7 +144,7 @@ I'm **Abu Sufian Rubel**, a **Software Engineer focused on Backend and Full-Stac
 
 ## 📊 GitHub Stats
 
-<p align="center"><img width="49%" height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sufianrubel&theme=tokyonight" alt="GitHub Stats"><img width="50%" height="195" src="https://streak-stats.demolab.com?user=sufianrubel&theme=tokyonight&hide_border=true&card_width=495" alt="GitHub Streak"></p>
+<p align="center"><img width="49%" height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abusufianrubel&theme=tokyonight" alt="GitHub Stats"><img width="50%" height="195" src="https://streak-stats.demolab.com?user=abusufianrubel&theme=tokyonight&hide_border=true&card_width=495" alt="GitHub Streak"></p>
 
 ---
 

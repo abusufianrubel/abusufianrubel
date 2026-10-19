@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sufianrubel.github.io/sufianrubel/sitemap.xml
+Sitemap: https://abusufianrubel.github.io/abusufianrubel/sitemap.xml
